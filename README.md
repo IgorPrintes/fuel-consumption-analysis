@@ -12,14 +12,16 @@ Este projeto analisa dados de consumo de combustível e emissões de CO2 de veí
 
 ### Passo 1: Clonar o Repositório
 Clone este repositório para o seu ambiente local:
-```bash
+```
 git clone https://github.com/IgorPrintes/fuel-consumption-analysis.git
+```
 
 ### Passo 2: Instalar Dependências
 Navegue até a pasta do projeto e instale as dependências:
 ```bash
 cd fuel-consumption-analysis
 pip install -r requirements.txt
+```
 
 ### Passo 3: Executar o Dashboard
 Execute o aplicativo Streamlit:
